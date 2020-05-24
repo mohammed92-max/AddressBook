@@ -1,0 +1,25 @@
+{
+	"persons": [
+		{
+			"firstname": "Amar",
+			"lastname": "Kumar",
+			"address": {
+				"city": "Nagpur",
+				"state": "maharashtra",
+				"zip": 413333
+			},
+			"mobile": "7678767876"
+		},
+		{
+			"firstname": "Singh",
+			"lastname": "Rathore",
+			"address": {
+				"city": "Kotla",
+				"state": "maharashtra",
+				"zip": 345654
+			},
+			"mobile": "8967898098"
+		}
+	],
+	"statename": "maharashtra"
+}
