@@ -1,0 +1,145 @@
+{
+	"addressbook": [
+		{
+			"statename": "Maharashtra",
+			"Maharashtra": [
+				{
+					"id": 6,
+					"firstname": "Shahrukh",
+					"lastname": "Khan",
+					"address": {
+						"city": "Ahmednagar",
+						"state": "Maharashtra",
+						"zip": 123456
+					},
+					"mobile": "9850387381"
+				},
+				{
+					"id": 7,
+					"firstname": "Akshay",
+					"lastname": "Kumar",
+					"address": {
+						"city": "Ahmednagar",
+						"state": "Gujrat",
+						"zip": 234567
+					},
+					"mobile": "9028649647"
+				},
+				{
+					"id": 8,
+					"firstname": "Vinod",
+					"lastname": "Chopra",
+					"address": {
+						"city": "BagalKot",
+						"state": "Karnataka",
+						"zip": 345678
+					},
+					"mobile": "8080984647"
+				},
+				{
+					"id": 9,
+					"firstname": "Luke",
+					"lastname": "kumar",
+					"address": {
+						"city": "Srinagar",
+						"state": "Jammu",
+						"zip": 432111
+					},
+					"mobile": " 9028998898"
+				}
+			]
+		},
+		{
+			"statename": "gj",
+			"gj": [
+				{
+					"id": 10,
+					"firstname": "Vinay",
+					"lastname": "sharma",
+					"address": {
+						"city": "Nagpur",
+						"state": "Kerala",
+						"zip": 654321
+					},
+					"mobile": "9762274576"
+				}
+			]
+		},
+		{
+			"statename": "Punjab",
+			"hr": [
+				{
+					"id": 11,
+					"firstname": "Rohit",
+					"lastname": "Khanna",
+					"address": {
+						"city": "Jalna",
+						"state": "Punjab",
+						"zip": 888777
+					},
+					"mobile": "9089786756"
+				}
+			]
+		},
+		{
+			"statename": "Bihar",
+			"Bihar": [
+				{
+					"id": 1,
+					"firstname": "Vivek",
+					"lastname": "Oberoi",
+					"address": {
+						"city": "Patna",
+						"state": "Bihar",
+						"zip": 444333
+					},
+					"mobile": "345434"
+				},
+				{
+					"id": 2,
+					"firstname": "Vidhu",
+					"lastname": "Chopra",
+					"address": {
+						"city": "Mumbai",
+						"state": "maharashtra",
+						"zip": 410206
+					},
+					"mobile": "9809890987"
+				},
+				{
+					"id": 3,
+					"firstname": "Saif",
+					"lastname": "Khan",
+					"address": {
+						"city": "Jalna",
+						"state": "maharashtra",
+						"zip": 234321
+					},
+					"mobile": "9098765432"
+				},
+				{
+					"id": 4,
+					"firstname": "Kalra",
+					"lastname": "Singh",
+					"address": {
+						"city": "Latur",
+						"state": "maharashtra",
+						"zip": 410204
+					},
+					"mobile": "8890987898"
+				},
+				{
+					"id": 5,
+					"firstname": "Vinod",
+					"lastname": "Kumar",
+					"address": {
+						"city": "Pune",
+						"state": "maharashtra",
+						"zip": 123454
+					},
+					"mobile": "9098767898"
+				}
+			]
+		}
+	]
+}
