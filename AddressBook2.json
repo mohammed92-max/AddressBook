@@ -1,0 +1,48 @@
+{
+	"persons": [
+		{
+			"firstname": "Vishwas",
+			"lastname": "Sharma",
+			"addressObj": {
+				"addressLocal": "asdfg",
+				"city": "pune",
+				"state": "maharashtra",
+				"zip": 123456
+			},
+			"mobile": 7878989809
+		},
+		{
+			"firstname": "Kadam",
+			"lastname": "Kohli",
+			"addressObj": {
+				"addressLocal": "Burud",
+				"city": "Jalna",
+				"state": "maharashtra",
+				"zip": 13458
+			},
+			"mobile": 9090898789
+		},
+		{
+			"firstname": "Virat",
+			"lastname": "Kumar",
+			"addressObj": {
+				"addressLocal": "Saved",
+				"city": "Nagpur",
+				"state": "maharashtra",
+				"zip": 456789
+			},
+			"mobile": 1234567898
+		},
+		{
+			"firstname": "Dinkar",
+			"lastname": "Anubhav",
+			"addressObj": {
+				"addressLocal": "Khapoli",
+				"city": "Mumbai",
+				"state": "Maharashtra",
+				"zip": 411048
+			},
+			"mobile": 8909890932
+		}
+	]
+}
